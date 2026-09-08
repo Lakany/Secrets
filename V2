@@ -1,1 +1,3 @@
+-- hello, dont try to skid, YOU CANT
+
 loadstring(game:HttpGet("https://flowauth.net/v1/loaders/6c46dcbebf705aa4dcf33457d3d5b9e2.lua"))()
